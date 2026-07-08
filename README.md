@@ -67,12 +67,9 @@ More on the [portfolio →](https://www.verappan.in/projects)
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=verappansm&theme=tokyonight&hide_border=false" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=verappansm&theme=tokyonight" />
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=verappansm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img src="https://github-stats-extended.vercel.app/api?username=verappansm&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" /><br/>
 
 ---
-
 <p align="center"><i>"It always seems impossible until it's done."</i></p>
