@@ -56,6 +56,7 @@ Building production systems, AI tools, and the occasional GTM deck.
 
 | Project | Stack | Links |
 |---|---|---|
+| **Ferodha — Enterprise Trading Platform** — Full-stack trading platform for US & Indian equities: limit orders settled through Kafka with idempotency and dead-letter topics, live prices, portfolio P&L, watchlists with price alerts, automated strategies and an admin console. Four services on PostgreSQL (Liquibase migrations), Dockerised, deployed to Kubernetes (EKS) via Jenkins CI/CD behind CloudFront; pre-commit hooks (gitleaks, shellcheck, ESLint) | Spring Boot, NestJS, Angular, Kafka, PostgreSQL, Docker, Kubernetes, Jenkins, AWS | [Repo](https://github.com/Verappansm/ferodha) |
 | **SCOPE Faculty Allocation Suite** — 4-module system handling course catalog, faculty preferences, allocation, and ILP-based research scholar mapping; deployed on VIT's servers for 350+ faculty | Django, ILP, PostgreSQL | *private — institutional deployment* |
 | **Amber — Day Planner** — AI-powered collaborative day-out planner with real-time itinerary building for groups | Next.js, TypeScript, React, Tailwind | [Repo](https://github.com/Verappansm/day-planner) · [Live](https://day-planner-amber.vercel.app/) |
 | **AI Database Retriever** — Privacy-first natural language → SQL engine; only schema is shared with the LLM, never the data | Python, LangChain, Streamlit, PostgreSQL | [Repo](https://github.com/Verappansm/Database_retriever) |
